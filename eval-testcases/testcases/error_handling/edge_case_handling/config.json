@@ -1,0 +1,8 @@
+{
+  "id": "edge_case_handling",
+  "name": "Edge Case Handling",
+  "version": "1.0.0",
+  "description": "Handle edge cases and boundary conditions correctly",
+  "type": "error_handling",
+  "difficulty": "hard"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "function_generation",
+  "name": "Function Code Generation",
+  "version": "1.0.0",
+  "description": "Generate standalone functions from specifications",
+  "type": "code_generation",
+  "difficulty": "easy"
+}

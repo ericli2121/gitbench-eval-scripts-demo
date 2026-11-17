@@ -1,0 +1,8 @@
+{
+  "id": "math_reasoning",
+  "name": "Mathematical Reasoning",
+  "version": "1.0.0",
+  "description": "Test ability to solve mathematical problems with reasoning",
+  "type": "reasoning",
+  "difficulty": "hard"
+}

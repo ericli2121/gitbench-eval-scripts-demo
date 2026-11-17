@@ -1,0 +1,8 @@
+{
+  "id": "dialogue_generation",
+  "name": "Dialogue Generation",
+  "version": "1.0.0",
+  "description": "Generate realistic conversations between characters",
+  "type": "creative",
+  "difficulty": "medium"
+}

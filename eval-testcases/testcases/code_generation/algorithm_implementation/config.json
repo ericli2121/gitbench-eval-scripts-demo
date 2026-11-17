@@ -1,0 +1,8 @@
+{
+  "id": "algorithm_implementation",
+  "name": "Algorithm Implementation",
+  "version": "1.0.0",
+  "description": "Implement complex algorithms from descriptions",
+  "type": "code_generation",
+  "difficulty": "hard"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "story_writing",
+  "name": "Creative Story Writing",
+  "version": "1.0.0",
+  "description": "Generate creative stories from prompts",
+  "type": "creative",
+  "difficulty": "medium"
+}

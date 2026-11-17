@@ -1,0 +1,8 @@
+{
+  "id": "table_extraction",
+  "name": "Table Data Extraction",
+  "version": "1.0.0",
+  "description": "Extract structured data from tabular format",
+  "type": "extraction",
+  "difficulty": "medium"
+}

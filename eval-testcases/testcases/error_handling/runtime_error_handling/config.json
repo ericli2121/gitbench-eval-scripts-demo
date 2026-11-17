@@ -1,0 +1,8 @@
+{
+  "id": "runtime_error_handling",
+  "name": "Runtime Error Handling",
+  "version": "1.0.0",
+  "description": "Handle and recover from runtime errors appropriately",
+  "type": "error_handling",
+  "difficulty": "medium"
+}

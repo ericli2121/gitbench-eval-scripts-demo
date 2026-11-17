@@ -1,0 +1,8 @@
+{
+  "id": "csv_extraction",
+  "name": "CSV Data Extraction",
+  "version": "1.0.0",
+  "description": "Parse and extract data from CSV format",
+  "type": "extraction",
+  "difficulty": "easy"
+}

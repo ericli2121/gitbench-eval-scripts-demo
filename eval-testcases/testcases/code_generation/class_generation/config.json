@@ -1,0 +1,8 @@
+{
+  "id": "class_generation",
+  "name": "Class Code Generation",
+  "version": "1.0.0",
+  "description": "Generate classes with methods and properties from specifications",
+  "type": "code_generation",
+  "difficulty": "medium"
+}

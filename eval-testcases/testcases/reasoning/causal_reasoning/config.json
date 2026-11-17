@@ -1,0 +1,8 @@
+{
+  "id": "causal_reasoning",
+  "name": "Causal Reasoning",
+  "version": "1.0.0",
+  "description": "Test ability to understand cause-effect relationships",
+  "type": "reasoning",
+  "difficulty": "medium"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "json_extraction",
+  "name": "JSON Data Extraction",
+  "version": "1.0.0",
+  "description": "Extract structured data from JSON format",
+  "type": "extraction",
+  "difficulty": "easy"
+}

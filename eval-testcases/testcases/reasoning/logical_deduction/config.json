@@ -1,0 +1,8 @@
+{
+  "id": "logical_deduction",
+  "name": "Logical Deduction",
+  "version": "1.0.0",
+  "description": "Test ability to make logical deductions from premises",
+  "type": "reasoning",
+  "difficulty": "medium"
+}
